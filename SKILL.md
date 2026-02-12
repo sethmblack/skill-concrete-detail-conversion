@@ -1,10 +1,9 @@
 ---
 name: concrete-detail-conversion
-description: Replace abstract language with concrete, sensory details that readers
-  can perceive directly.
+description: Replace abstract language with concrete, sensory details that readers can perceive directly.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - concrete-detail-conversion
